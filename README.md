@@ -6,7 +6,6 @@
 </div>
 
 
-Aqui está uma sugestão de descrição de perfil com base nas suas informações:
 
 "Olá, meu nome é Afonso Henrique, estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou trabalhando em um projeto de CRM, com um mês de experiência. Sou apaixonado pela área de tecnologia e estou constantemente buscando aprender mais para adquirir o conhecimento necessário para realizar grandes projetos no futuro."
 
